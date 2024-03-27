@@ -6,7 +6,7 @@ import Navbar from './Navbar'
 const Header = () => {
   return (
     <MainHeader>
-      <NavLink to="/Portfolio/">
+      <NavLink to="/Narejo/">
       </NavLink>
       <Navbar />
     </MainHeader>

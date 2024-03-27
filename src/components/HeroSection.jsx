@@ -21,7 +21,7 @@ const HeroSection = () => {
           <p className="hero-para">{para}</p>
           <div className="hero-btn">
             <Button className="btn hireme-btn hero-btn">
-              <NavLink to="/Portfolio/contact">hire me</NavLink>
+              <NavLink to="/Narejo/contact">hire me</NavLink>
             </Button>
             <Button className="hero-btn">
               <a href="https://drive.google.com/file/d/1BRko4KDQHJflTZ4vlx-ORxynVPFNpC6t/view?usp=sharing">
