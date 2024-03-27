@@ -91,7 +91,7 @@ const Footer = () => {
           <hr />
           <div className="container grid grid-two-column">
             <p>
-            &copy; {new Date().getFullYear()} Safdar Hussain. All Rights Reserved!
+            &copy; {new Date().getFullYear()} Sami Ullah. All Rights Reserved!
             </p>
             <div>
               <p>PRIVACY POLICY</p>
